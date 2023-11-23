@@ -11,11 +11,6 @@
       "static/chunks/main-app.js",
       "static/css/app/issues/new/page.css",
       "static/chunks/app/issues/new/page.js"
-    ],
-    "/issues/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/issues/page.js"
     ]
   }
 }
